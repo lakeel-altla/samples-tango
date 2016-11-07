@@ -1,0 +1,3 @@
+include ':sample-tango-ux', ':tango-helper', ':tango-rajawali', ':sample-camera-preview', ':sample-streaming-texture', ':sample-plane-detection'
+project(':tango-helper').projectDir = new File(settingsDir, './subtree/tango-helper/library')
+project(':tango-rajawali').projectDir = new File(settingsDir, './subtree/tango-rajawali/library')

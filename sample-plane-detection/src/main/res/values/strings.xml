@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tango Plane Detection</string>
+    <string name="failed_measurement">Failed to fit plane</string>
+    <string name="failed_permissions">Permissions required!</string>
+</resources>
